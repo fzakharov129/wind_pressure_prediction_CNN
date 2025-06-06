@@ -1,0 +1,10 @@
+# Игнорировать всё
+*
+
+# Кроме папки notebooks
+!notebooks/
+!notebooks/**
+
+# И кроме .gitignore и README
+!.gitignore
+!README.md
